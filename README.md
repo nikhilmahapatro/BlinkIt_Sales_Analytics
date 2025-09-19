@@ -19,9 +19,10 @@ Business/Data Analyst project analyzing BlinkIt sales data using Python, SQL, Ex
 ---
 
 ## 🖼️ Demo
-- Power BI Dashboard (screenshot/gif here)  
-- Excel Dashboard (screenshot here)  
-- Sample plots from Python EDA  
+![Excel Dashboard](Dashboard.png)  
+![Data Analysis with Python](DA1.png)
+![](DA2.png) 
+![](DA3.png)
 
 ---
 
