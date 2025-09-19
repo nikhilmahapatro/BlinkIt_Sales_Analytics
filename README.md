@@ -21,8 +21,8 @@ Business/Data Analyst project analyzing BlinkIt sales data using Python, SQL, Ex
 ## 🖼️ Demo
 ![Excel Dashboard](Dashboard.png)  
 ![Data Analysis with Python](DA1.png)
-![](DA2.png) 
-![](DA3.png)
+![Data Analysis with Python](DA2.png) 
+![Data Analysis with Python](DA3.png)
 
 ---
 
